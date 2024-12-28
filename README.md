@@ -1,0 +1,2 @@
+# barcode-autherization-application-with-python-based-realtime-printout-functionality-script
+Barcode Authorization is an innovative system that creates a barcode during user registration. This barcode is printed onto a wristband using a Python service running on a local machine connected to a printer. Upon scanning the barcode, user information and account status are retrieved based on the expiration date. 
